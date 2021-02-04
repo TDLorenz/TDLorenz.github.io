@@ -1,3 +1,3 @@
 # __README__
 
-__Hello world__
+__Hello World__
