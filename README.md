@@ -1,3 +1,3 @@
-# __README.md__
+# __README__
 
 __Hello world__
