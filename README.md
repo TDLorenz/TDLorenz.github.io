@@ -1,3 +1,3 @@
-## __TDLorenz.github.io__
+## __README__
 
 __Hello world__
